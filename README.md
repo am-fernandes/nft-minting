@@ -18,6 +18,7 @@
 - [NFT Eth tutorial](https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/)
 - [Pinata Cloud](https://www.pinata.cloud/)
 - [Arweave](https://www.arweave.org/)
+- [Faucet Ropsten](https://faucet.ropsten.be/)
 ### Minting an NFT
 
 É o processo de publicar um token único na blockchain. Esse token é uma instancia do Smart Contract.
@@ -47,12 +48,12 @@ Existem 3 maneiras diferentes de armazenar o NFT
 
 - **on-chain:** extender ERC-721 e armazenar os metadados na blockchain, isso pode ser um processo custoso.
 - **IPFS:** IPFS é um sistema distribuido para armazenar e acessar arquivos, websites, aplicação e dados.
-- **JSON:** Armazenar em um simples JSON que é retornado a partir de uma API.
-O primeiro e segundo método são preferiveis.
+- **JSON:** Armazenar em um simples JSON que é retornado a partir de uma API. **(CASO A API SAIA DO AR A ARTE É DANIFICADA)**
+
+**O primeiro e segundo método são preferiveis.**
 
 ### NFT com IPFS
 [NFTs with IPFS by the Alchemy team](https://docs.alchemy.com/alchemy/tutorials/how-to-create-an-nft/how-to-mint-a-nft#step-4-configure-the-metadata-for-your-nft-using-ipfs)
-
 
 
 ### Como criar NFT
