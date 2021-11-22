@@ -15,7 +15,9 @@
 - [SMART CONTRACT LANGUAGES](https://ethereum.org/en/developers/docs/smart-contracts/languages/)
 - [ethers](https://docs.ethers.io/v5/)
 - [Compile contracts](https://hardhat.org/guides/compile-contracts.html)
-
+- [NFT Eth tutorial](https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/)
+- [Pinata Cloud](https://www.pinata.cloud/)
+- [Arweave](https://www.arweave.org/)
 ### Minting an NFT
 
 É o processo de publicar um token único na blockchain. Esse token é uma instancia do Smart Contract.
@@ -68,3 +70,12 @@ node ./scripts/deploy.js
 ```bash
 node ./scripts/mint.js
 ```
+
+### NFT na rede Solana (SOL)
+[Metaplex](https://docs.metaplex.com/create-store/installation)
+[Sol Faucet](https://solfaucet.com/)
+[Phantom Wallet](https://phantom.app/)
+
+
+**Maximum Supply**: allows you to choose between having a single NFT or multiple copies (prints) from this master edition asset. The main difference between Master Edition and prints is that each print is a numbered edition created from a master edition.
+
