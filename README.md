@@ -9,6 +9,12 @@
 - [Solidity, Blockchain, and Smart Contract Course](https://www.youtube.com/watch?v=M576WGiDBdQ)
 - [Ropsten Ethereum Faucet](https://faucet.ropsten.be/)
 - [hardhat](https://hardhat.org/getting-started/)
+- [How make a NFT](https://www.freecodecamp.org/news/how-to-make-an-nft/)
+- [How to export an account private key in MetaMask](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key)
+- [NFT tokens in your MetaMask wallet](https://metamask.zendesk.com/hc/en-us/articles/360058238591-NFT-tokens-in-your-MetaMask-wallet)
+- [SMART CONTRACT LANGUAGES](https://ethereum.org/en/developers/docs/smart-contracts/languages/)
+- [ethers](https://docs.ethers.io/v5/)
+- [Compile contracts](https://hardhat.org/guides/compile-contracts.html)
 
 ### Minting an NFT
 
