@@ -53,3 +53,18 @@ O primeiro e segundo método são preferiveis.
 
 
 
+### Como criar NFT
+- Compilar:
+```bash 
+npx hardhat compile
+```
+
+- Deploy:
+```bash
+node ./scripts/deploy.js
+```
+
+- Mint
+```bash
+node ./scripts/mint.js
+```
