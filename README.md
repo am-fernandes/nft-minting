@@ -83,6 +83,11 @@ node ./scripts/mint.js
 
 **Maximum Supply**: allows you to choose between having a single NFT or multiple copies (prints) from this master edition asset. The main difference between Master Edition and prints is that each print is a numbered edition created from a master edition.
 
+### NFT na rede Binance Smart Chain (BSC)
+[Deploy NFT in BSC](https://docs.binance.org/smart-chain/developer/ERC721.html)
+[Truffle](https://www.trufflesuite.com/docs/truffle/reference/truffle-commands#develop)
+[BNB Faucet](https://testnet.binance.org/faucet-smart)
+
 ### NFT na rede Polkadot (DOT)
 [Polkadot Whitepaper](https://polkadot.network/PolkaDotPaper.pdf)
 [NTFs 2.0](https://wiki.polkadot.network/docs/learn/learn-nft#nfts-20-nfts-in-polkadot-and-kusama)

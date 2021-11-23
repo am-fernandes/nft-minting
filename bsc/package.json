@@ -1,0 +1,12 @@
+{
+  "name": "bsc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.3.3"
+  },
+  "dependencies": {
+    "truffle": "^5.4.21"
+  }
+}

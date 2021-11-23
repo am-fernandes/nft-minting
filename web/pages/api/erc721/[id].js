@@ -17,5 +17,5 @@ const metadata = {
 };
 
 export default function handler(req, res) {
-  res.status(200).json(metadata[req.query.id] || {});
+  res.status(200).json(metadata || {});
 }
