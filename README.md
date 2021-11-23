@@ -19,6 +19,9 @@
 - [Pinata Cloud](https://www.pinata.cloud/)
 - [Arweave](https://www.arweave.org/)
 - [Faucet Ropsten](https://faucet.ropsten.be/)
+- [Colored Coins](https://en.bitcoin.it/wiki/Colored_Coins)
+- [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
+
 ### Minting an NFT
 
 É o processo de publicar um token único na blockchain. Esse token é uma instancia do Smart Contract.
@@ -80,3 +83,12 @@ node ./scripts/mint.js
 
 **Maximum Supply**: allows you to choose between having a single NFT or multiple copies (prints) from this master edition asset. The main difference between Master Edition and prints is that each print is a numbered edition created from a master edition.
 
+### NFT na rede Polkadot (DOT)
+[Polkadot Whitepaper](https://polkadot.network/PolkaDotPaper.pdf)
+[NTFs 2.0](https://wiki.polkadot.network/docs/learn/learn-nft#nfts-20-nfts-in-polkadot-and-kusama)
+[Unique Network, an NFT-specific Blockchain](https://unique.network/)
+[RMRK](https://www.rmrk.app/)
+[Substrate](https://substrate.io/)
+[Parachains in Polkadot](https://wiki.polkadot.network/docs/learn-parachains)
+[Parathreads](https://wiki.polkadot.network/docs/learn-parathreads)
+[XCMP](https://research.web3.foundation/en/latest/polkadot/XCMP/index.html)
