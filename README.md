@@ -75,10 +75,17 @@ node ./scripts/deploy.js
 node ./scripts/mint.js
 ```
 
+### NFT na rede Cardano (ADA)
+- [Minting NFTs in Cardano](https://developers.cardano.org/docs/native-tokens/minting-nfts/)
+- [Install Cardano Node](https://developers.cardano.org/docs/get-started/installing-cardano-node/)
+- [Run Cardano Node](https://developers.cardano.org/docs/get-started/running-cardano)
+- [How make a NFT in Cardano](https://www.youtube.com/watch?v=n5x9bvrOHW0)
+
 ### NFT na rede Solana (SOL)
 - [Metaplex](https://docs.metaplex.com/create-store/installation)
 - [Sol Faucet](https://solfaucet.com/)
 - [Phantom Wallet](https://phantom.app/)
+- [Mint NFT Solana](https://www.quicknode.com/guides/web3-sdks/how-to-mint-an-nft-on-solana)
 
 
 **Maximum Supply**: allows you to choose between having a single NFT or multiple copies (prints) from this master edition asset. The main difference between Master Edition and prints is that each print is a numbered edition created from a master edition.
@@ -97,3 +104,8 @@ node ./scripts/mint.js
 - [Parachains in Polkadot](https://wiki.polkadot.network/docs/learn-parachains)
 - [Parathreads](https://wiki.polkadot.network/docs/learn-parathreads)
 - [XCMP](https://research.web3.foundation/en/latest/polkadot/XCMP/index.html)
+
+
+### Redes para ficar atento
+- [Stellar](https://www.stellar.org/)
+- [Cosmos](https://cosmos.network/)
